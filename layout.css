@@ -1,0 +1,52 @@
+*{
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+.text-color{
+    color: white !important; 
+}
+.carousel-item, .carousel-inner{
+    height: 450px !important;
+}
+.custom-image{
+    height: 450px !important;
+    width: 100% !important;
+}
+/* .custom-column{
+    height: 350px !important;
+} */
+.col{
+    margin-bottom: 5px;
+}
+.custom-card-image{
+    height: 200px;
+    transition: 3s;
+}
+.custom-card-image:hover{
+    transform: scale(1.2);
+}
+.custom-card-image-container{
+    overflow: hidden;
+}
+.custom-background-color{
+    background-color:silver;
+}
+.custom-background-color-alternate{
+    background-color: wheat;
+}
+.custom-remember-me{
+    margin-left: 0 !important;
+    float: left !important;
+}
+.custom-form{
+    position: relative;
+}
+.custom-icon{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.blogger-img{
+    background-color: blue;
+    border-radius: 50px;
+}
